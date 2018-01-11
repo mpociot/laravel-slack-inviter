@@ -3,6 +3,8 @@
 This is a small Laravel application that allows you to invite users into your Slack team.
 It also generates a badge to show the online / total number of members in your Slack team.
 
+Want to see it in action? See [BotMan Slack Team](https://slack.botman.io).
+
 ![](https://raw.github.com/mpociot/laravel-slack-inviter/master/screenshots/index.png)
 
 ## Getting started
